@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Code;
+    src: url(../fonts/FiraCode-VariableFont_wght.ttf);
+}
+
+.main-content {
+    max-width: 100vw;
+    min-height: 100vh;
+    background-color: #252525;
+}
+.main-textarea {
+    padding: 10px;
+    display: block;
+    max-width: 100%;
+    height: 100%;
+    border: unset;
+    background-color: #252525;
+    color: white;
+    font-family: Code;
+    font-size: 14px;
+    outline: transparent;
+    white-space: pre;
+    overflow: hidden;
+}
