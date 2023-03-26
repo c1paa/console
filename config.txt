@@ -1,0 +1,10 @@
+This is website, but it's like console or terminal. You can:
+$ help  -> know all functions RUS
+$ list  -> know all directories in this score
+$ cd    -> change directory
+$ clear -> clear all console
+$ color -> change color, first number is color for text and second for background, reset for set default colors
+$ font  -> change text size, reset for set default size
+$ new   -> create file --f or directory --d
+"new --f test" - it's create new file in current directory, name is "test"
+"new --d folder" - it's create new directory in current directory, name is "folder"
